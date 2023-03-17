@@ -1,0 +1,85 @@
+/* Write some CSS below */
+body {
+background: #c13d04;
+color: black;
+font-family: 'Lora', serif;
+font-size: 17px;
+font-weight: lighter;
+text-align: center;
+}
+
+h1, h2, h3 {
+font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+color: #cf0f05;
+font-size: 32px;
+font-weight: 900;
+}
+
+h2 {
+color: #cf0f05;
+font-size: 22px;
+font-weight: 600;
+}
+ 
+#introduction {
+margin-bottom : 40px ; 
+}   
+
+.img-circle {
+height: 350px;
+border-radius: 100%;
+width: 300px;
+}
+
+a.btn-red{
+text-decoration: none;
+background-color: white;
+font-family:'Montserrat', sans-serif;
+font-size: 17px ;
+font-weight: bold;
+color: #e20019;;
+padding: 7px 50px;
+border: 1px solid #e20019;;
+border-radius: 80px;
+}
+
+#reseau {
+text-align:right;
+width: 40px ;
+height: 40px;
+text-decoration: none;
+border-radius: 80px;
+
+}
+
+
+.socials {
+font-size: 20px;
+background-color: transparent;
+border-radius: 40px;
+margin-left: 30px;
+text-decoration: none;
+text-align: center;
+}
+
+.card-white {
+background-color: white;
+padding: 40px;
+box-shadow: 0px 10px 30px rgb(0 0 0 / 10%);
+border-radius: 4px;
+margin: 20px 0px;
+}
+
+.container {
+text-align: center;
+margin: 40px auto;
+width: 700px;
+}
+ 
+
+
+
+
